@@ -1,3 +1,2 @@
 #!/usr/bin/env node
-'use strict';
-var index = require('../index')
+var index = require('../index');
